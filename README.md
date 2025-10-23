@@ -75,7 +75,7 @@ dkeeper/
 ## 🖼️ Screenshot
 
 > Add a preview of your app UI here!
-> ![App Screenshot Placeholder](./images/dkeeper-screenshot.png)
+> ![App Screenshot Placeholder](src/dkeeper_assets/assets/dkeeper-screenshot.png)
 
 ## 🌐 Deployment to Mainnet (Optional)
 
