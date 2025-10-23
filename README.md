@@ -1,21 +1,27 @@
 # 📝 DKeeper
+
 **DKeeper** is a decentralized note-keeping application built on the **Internet Computer**.  
 It allows users to securely **create, view, and delete notes** stored on-chain using **Motoko smart contracts**.
 
-##  Technologies Used
-- 🧠 **Motoko** — Backend smart contracts on the Internet Computer  
-- ⚛️ **React.js** — Frontend user interface  
-- 🧩 **DFINITY SDK (dfx)** — Local development and deployment  
-- 💻 **Node.js** — Frontend build and dependency management  
+## Technologies Used
+
+- 🧠 **Motoko** — Backend smart contracts on the Internet Computer
+- ⚛️ **React.js** — Frontend user interface
+- 🧩 **DFINITY SDK (dfx)** — Local development and deployment
+- 💻 **Node.js** — Frontend build and dependency management
 
 ## 🧰 Getting Started
+
 ### ✅ Prerequisites
+
 Make sure you have the following installed:
+
 - [Node.js](https://nodejs.org/)
 - [DFINITY SDK](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/)
 - [Git](https://git-scm.com/)
 
 ### ⚙️ Installation
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/abdo-ali/dKeeper-.git
@@ -39,15 +45,18 @@ Make sure you have the following installed:
    ```
 
 ### 💡 Usage
+
 Once everything is running, open your browser at:  
 👉 [http://localhost:8080](http://localhost:8080)
 You can now:
-- ✍️ Create new notes  
-- 📖 View existing notes  
+
+- ✍️ Create new notes
+- 📖 View existing notes
 - ❌ Delete notes  
-All your data is stored **decentrally** on the Internet Computer!
+  All your data is stored **decentrally** on the Internet Computer!
 
 ## 🗂️ Project Structure
+
 ```
 dkeeper/
 │
@@ -64,24 +73,31 @@ dkeeper/
 ```
 
 ## 🖼️ Screenshot
+
 > Add a preview of your app UI here!
-![App Screenshot Placeholder](./images/dkeeper-screenshot.png)
+> ![App Screenshot Placeholder](./images/dkeeper-screenshot.png)
 
 ## 🌐 Deployment to Mainnet (Optional)
+
 To deploy your project on the **Internet Computer mainnet**, run:
+
 ```bash
 dfx deploy --network ic
 ```
+
 Make sure your **identity** is set up and you have enough **cycles** in your wallet.
 
 ## 🤝 Contributing
+
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss your proposal.
 
 ## 👤 Author
+
 **Abdelrahman Ali**  
 🔗 [GitHub](https://github.com/abdo-ali)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-ali-04664a185/)
 
 ## 📄 License
+
 This project is licensed under the **MIT License** — feel free to use, modify, and share it.
